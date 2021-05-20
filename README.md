@@ -1,7 +1,6 @@
 # La Petite Traveller
 
-<<<<<<< HEAD
-This website was created to provide guidance and inspiration for people interested in backpacking and also those specifically interested in visiting Sri Lanka. 
+This website was created to provide guidance and inspiration for people interested in backpacking; furthermore those specifically interested in visiting Sri Lanka as that is the 'recent trip' featured in this website. 
 
 Featured in this website are the following sections:
 
@@ -12,9 +11,10 @@ Featured in this website are the following sections:
 
 The business goals for this website are:
 
-1. To provide advice and inspiration to users for backpacking/travelling around the world
-2. Earn commission from links provided (hotels, restaurants)
-3. Build a database of users to send future information & content to, thus furthering the reach of the author.
+1. To advise users on how to backpack and travel around the world on a budget
+2. To inspire users to visit countries that have been reviewed
+3. Earn commission from links provided (hotels, restaurants)
+4. Build a database of users to send future information & content to, thus furthering the reach of the author.
 
 The user goals of this website are:
 1. To easily find useful information & tips for travelling/backpacking
@@ -24,6 +24,5 @@ The user goals of this website are:
 5. To easily find affiliate pages for the author, with even more inspiration available
 6. To be able to sign up to direclty receive content via a newsletter
 
-=======
+UX
 
->>>>>>> 58f505120cc7c601bb1f632d40a9ccda2ab7a7b1
