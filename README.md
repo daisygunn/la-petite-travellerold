@@ -1,5 +1,6 @@
 # La Petite Traveller
 
+<<<<<<< HEAD
 This website was created to provide guidance and inspiration for people interested in backpacking and also those specifically interested in visiting Sri Lanka. 
 
 Featured in this website are the following sections:
@@ -23,3 +24,6 @@ The user goals of this website are:
 5. To easily find affiliate pages for the author, with even more inspiration available
 6. To be able to sign up to direclty receive content via a newsletter
 
+=======
+
+>>>>>>> 58f505120cc7c601bb1f632d40a9ccda2ab7a7b1
