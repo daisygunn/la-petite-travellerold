@@ -25,7 +25,7 @@ The user goals of this website are:
 6. To be able to sign up to directly receive content via a newsletter
 
 ## UX
-
+---
 ### **Strategy**
 
 Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
@@ -60,4 +60,8 @@ In order to achieve the desired user & business goals, the following features wi
 - Gallery of images of Sri Lanka trip
 - Newsletter sign up form
 - Links to affiliate social media pages & email address
+
+### *Structure* 
+
+This website is a single page website to allow for desired flow, the navigation bar at the top allows for users to easily move to whatver section of the site they are interested in or they can simply scroll through the information as it is displayed. I chose the following order for the information 'Home > Travel Tips 101 > My Last Trip > Keep in Touch', as I felt this would allow for the most beneficial digestion of the information. The text blocks are broken up with images to ensure interest is kept and there is no information overload at any point. There is a concise review of Sri Lanka before the more in-detail guide as I wanted users to be able to find these key bits of information quickly. Finally there is a sign up form for users to sign up to the La Petite Traveller's newsletter.
 
