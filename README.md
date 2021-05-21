@@ -65,3 +65,26 @@ In order to achieve the desired user & business goals, the following features wi
 
 This website is a single page website to allow for desired flow, the navigation bar at the top allows for users to easily move to whatver section of the site they are interested in or they can simply scroll through the information as it is displayed. I chose the following order for the information 'Home > Travel Tips 101 > My Last Trip > Keep in Touch', as I felt this would allow for the most beneficial digestion of the information. The text blocks are broken up with images to ensure interest is kept and there is no information overload at any point. There is a concise review of Sri Lanka before the more in-detail guide as I wanted users to be able to find these key bits of information quickly. Finally there is a sign up form for users to sign up to the La Petite Traveller's newsletter.
 
+
+### Skeleton
+
+[link to wireframes]
+
+### *Surface*
+
+
+
+
+## Features
+---
+## Technologies Used
+---
+## Testing
+---
+## Deployment
+---
+## Credits
+---
+## Acknowledgements
+---
+
