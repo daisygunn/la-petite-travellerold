@@ -26,7 +26,7 @@ The user goals of this website are:
 
 ## UX
 
-### Strategy
+### **Strategy**
 
 Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
 
@@ -45,4 +45,22 @@ What these user's would be looking for:
 This website will offer all of these things whilst also allowing for intuitive navigation and comfortability of use. An effort was taken to not provide an overwhelming amount of information as this is often the reason people are put-off with travel guides.
 
 Due to the age group of the users it is assumed that most users will be viewing the site on their mobile phones and therefore creating something that is responsive is an integral part of this design.
+
+### **Scope** 
+
+In order to acheive the desired user & business goals the following features will be included in this release:
+
+- Header and menu bar, to navigate to various sections of page
+- Carousel with images of holiday destinations to immediately entice the user
+- Information section full of tips for backpacking
+- Interactive Checklist of things to pack
+- Overview ratings for recent trip, Sri Lanka
+- Map of route taken
+- Information, recommendations and advice for travelling Sri Lanka
+- Gallery of images of Sri Lanka trip
+- Newsletter sign up form 
+- Links to affiliate social media pages & email address
+
+
+
 
