@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Playfair+Display:wght@400;700&display=swap');
+
+header {
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+}
