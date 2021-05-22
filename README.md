@@ -73,8 +73,6 @@ This website is a single page website to allow for desired flow, the navigation 
 ### *Surface*
 
 
-
-
 ## Features
 ---
 ## Technologies Used
